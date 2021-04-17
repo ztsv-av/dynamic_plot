@@ -7,4 +7,4 @@ Overall plan of the project:
 
 The project lacks node_modules repository, due to the size of the repository.
 
-![graph](https://user-images.githubusercontent.com/73081144/115095014-ed876800-9edc-11eb-8a67-a1f5b923d97a.png)
+![image](https://user-images.githubusercontent.com/73081144/115095421-77840080-9ede-11eb-8b38-bba13de7f3a9.png)
